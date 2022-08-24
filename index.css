@@ -11,7 +11,7 @@ input {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width: 60px;
+    width: 125px;
     border: 2px solid #B295FF;
     border-radius: 5px;
     background: #6943FF;
@@ -19,7 +19,7 @@ input {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
-    padding: 10px 15px;
+    padding: 15px 15px;
 }
 
 button {
@@ -28,7 +28,7 @@ button {
     border-radius: 5px;
     color: #3D3D3D;
     margin-top: 20px;
-    padding: 10px 20px;
+    padding: 15px 35px;
 }
 
 #entryContainer {
